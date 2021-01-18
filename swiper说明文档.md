@@ -2,7 +2,7 @@
 
 #### **起步**
 
-在html页面的head标签内引入css样式和js
+在html页面的head标签内引入css样式和js。
 
 ```html
 	<!-- swiper样式 -->
